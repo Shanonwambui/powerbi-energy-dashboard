@@ -2,6 +2,8 @@
 
 ### Energy Consumption & Cost Analysis Dashboard (Power BI)
 
+[Link To Dashboard](https://app.powerbi.com/links/1F1XyYHFlg?ctid=5e21d935-6cd8-4493-a5f6-1031b209455b&pbi_source=linkShare&bookmarkGuid=109a2b92-0bb4-455e-9463-d71f1de547a0)
+
 ## Overview
 
 #### This project analyzes renewable and non-renewable energy consumption, costs, and emissions across multiple regions.
